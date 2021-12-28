@@ -1,0 +1,61 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+
+.form{
+    
+    border: 2px solid #444;
+    float: left;
+    padding: 30px;
+    margin-right: 200px ;
+
+    
+    
+}
+.btn{
+    background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  margin: 20px;
+}
+
+
+.joueur{
+    background: url(images/dd.jpg) no-repeat center ;
+    height: 300px;
+    width: 50vh;
+    position: absolute;
+   
+    background-size: cover;
+
+}
+
+.animateur{
+    background: url(images/kisspng-natur4.jpg) no-repeat center ;
+    height: 300px;
+    width: 50vh;
+    position: absolute;
+    background-size: contain;
+
+}
+
+.clubs{
+    background: url(images/transparent-cartoon.jpg) no-repeat center ;
+    height: 300px;
+    width: 50vh;
+   position: absolute;
+   display: none;
+    background-size: cover;
+
+}
+.principale{
+    height: 400px;
+    width: 50vh;
+    position: relative;
+}
+
